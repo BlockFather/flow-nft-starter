@@ -27,6 +27,8 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
+  align-self: center;
+  color:hsl(163, 100%, 50%)
 }
 
 .header-container{
@@ -35,6 +37,7 @@
 
 .sub-text {
   font-size: 25px;
+  color: rgb(227, 157, 255);
 }
 
 .gradient-text {
@@ -57,7 +60,8 @@
 }
 
 .flow-logo {
-  width: 80px;
+  width: 150px;
+  height: 150px;
 }
 
 .logo-container {
@@ -187,7 +191,7 @@
 
 .logout-btn {
   margin: 15px 20px 0 0;
-  background-color: #f94c66;
+  background-color: hsl(331, 94%, 64%);
   color: white;
 }
 
